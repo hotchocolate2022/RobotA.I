@@ -13,3 +13,12 @@ MongoDB (local or remote instance)
 Dependencies:
 pymongo: Install via pip install pymongo
 tkinter: Included with Python (no additional installation required)
+📂 Project Structure
+plaintext
+Code kopieren
+Project Directory/
+├── main.py             # Main application file
+├── LICENSE             # MIT License file
+└── README.md           # This document
+📜 License
+This project is open-source and licensed under the MIT License. Feel free to use, modify, and share it as per the terms of the license.
